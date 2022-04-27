@@ -8,7 +8,7 @@ We use a special recurrent neural network (LSTM) to classify which category the 
 
 Let’s create a retrieval based chatbot using NLTK, Keras, Python, etc.
 
-***Follow [python code]() for more!***
+***Follow [python code](https://github.com/Anuragtsl/NLP-Chatbot/blob/main/train_chatbot.py) for more!***
 
 # What is Chatbot?
 
