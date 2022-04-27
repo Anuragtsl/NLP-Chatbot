@@ -8,6 +8,8 @@ We use a special recurrent neural network (LSTM) to classify which category the 
 
 Let’s create a retrieval based chatbot using NLTK, Keras, Python, etc.
 
+***Follow [python code]() for more!***
+
 # What is Chatbot?
 
 A chatbot is an intelligent piece of software that is capable of communicating and performing actions similar to a human. 
@@ -16,13 +18,13 @@ Chatbots are used a lot in customer interaction, marketing on social network sit
 
 There are two basic types of chatbot models based on how they are built; Retrieval based and Generative based models.
 
-* Retrieval based Chatbots
+* **Retrieval based Chatbots**
 
 A retrieval-based chatbot uses predefined input patterns and responses. It then uses some type of heuristic approach to select the appropriate response. 
 
 It is widely used in the industry to make goal-oriented chatbots where we can customize the tone and flow of the chatbot to drive our customers with the best experience.
 
-* Generative based Chatbots
+* **Generative based Chatbots**
 
 Generative models are not based on some predefined responses.
 
@@ -34,9 +36,7 @@ It needs a large amount of data and it is based on Deep Neural networks.
 
 # Preview
 
-![Image1]()
-
-![Image2]()
+![Image1](https://github.com/Anuragtsl/NLP-Chatbot/blob/main/images/ss.png)
 
 
 #Njoy!!
